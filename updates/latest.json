@@ -1,5 +1,5 @@
 {
-  "latest_version": 1,
-  "apk_url": "https://raw.githubusercontent.com/cypherbangladesh/printEx/main/updates/printex-v1.apk",
-  "change_log": "First release."
+  "latestVersion": 1,
+  "apkUrl": "https://raw.githubusercontent.com/cypherbangladesh/printEx/main/updates/printex-v1.apk",
+  "changelog": "First release."
 }
